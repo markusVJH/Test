@@ -1,1 +1,1 @@
-Editin the file
+Editing the file
